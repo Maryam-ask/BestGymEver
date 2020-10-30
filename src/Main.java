@@ -13,6 +13,7 @@ public class Main {
         Scanner input = new Scanner(System.in);
 
         System.out.println("Full Name : ");
+        System.out.println("Full Name :::: ");
         String[] fullName = input.nextLine().split(" ");
 
         // fullName[0] = namn , fullName[1] =efternamn
